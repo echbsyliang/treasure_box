@@ -4,9 +4,9 @@ import itchat
 import requests
 
 # 图灵机器人KEY
-KEY = '4465d7ee87764e5788eb789e6187392c'
+KEY = ''
 # 群组名称
-GROUPS = ('多么痛的领悟')
+GROUPS = ('')
 # 好友名称
 FRIENDS = ('', '')
 
