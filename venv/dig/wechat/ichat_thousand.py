@@ -7,7 +7,7 @@ import PIL.Image as Image
 IMG_DIR = os.getcwd() + '/img/'
 # 合成矩阵图保存路径
 MERGE_PNG = '/heiheipiupiupiu.png'
-MERGE_PATH = '/Users/ton/Downloads' + MERGE_PNG
+MERGE_PATH = '/A/B/C' + MERGE_PNG
 # 用户头像压缩(数字越大，合成图像质量越高)
 HEAD_IMG_WIDTH = 80
 HEAD_IMG_HEIGHT = 80
